@@ -1,10 +1,12 @@
 # FUNCTION
 
-function sayHello () {
-   echo "Hello World"
-}
+# function sayHello () {
+#    echo "Hello World"
+# }
 
-sayHello
+# sayHello
+# sayHello
+# sayHello
 
 # FUNCTION WITH PARAMS
 

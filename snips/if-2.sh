@@ -1,22 +1,6 @@
-# SIMPLE IF STATEMENT
-
-NAME="Huseyi"
-
-if [ ${NAME} == "Huseyin" ]
-then
-  echo "Your name is Huseyin"
-fi
-
-# IF-ELSE STATEMENT
-
-if [ ${NAME} == "Huseyin" ]
-then
-  echo "Your name is Huseyin"
-else
-  echo "Your name is not Huseyin"
-fi
-
 # ELSE-IF (elif)
+
+NAME="HuseyiN"
 
 if [ ${NAME} == "Huseyin" ]
 then

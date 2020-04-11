@@ -8,7 +8,6 @@
 ########
 
 NUM1=7
-
 read -p "Enter your number: " NUM
 
 if [ "${NUM1}" -gt "${NUM}" ]

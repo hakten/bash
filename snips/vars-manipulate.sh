@@ -8,4 +8,4 @@
 # if varname is defined, return its value. Otherwise, print varname followed by message and abort the current script
 firstname=$1
 
-echo ${firstname:?message}
+echo "${firstname:?message}"

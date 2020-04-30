@@ -44,6 +44,6 @@ if [ -s $filename ]; then
                 echo "Please enter –l or –h"
     esac
 else
-echo "Invalid filename or file is empty"
-exit 1 
+    echo "Invalid filename or file is empty"
+    exit 1 
 fi
